@@ -5,3 +5,4 @@ torchaudio
 numpy
 funasr
 modelscope
+python-multipart
